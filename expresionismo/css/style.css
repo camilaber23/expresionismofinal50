@@ -1,0 +1,553 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0; 
+    padding: 0;
+  }
+
+html, .hoja{
+    height: 100%;
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+.hoja{
+
+    background-color: rgb(0, 0, 0);
+    padding: 0px;
+    
+    
+}
+
+.navbar{
+    padding: .8rem;
+}
+
+.header1{
+
+
+    background-position: center;
+ 
+}
+.menu{
+
+    font-family: 'Poppins', sans-serif;
+	text-align: center;
+	font-weight: bold;
+    font-size: 17px;
+    
+}
+
+
+
+
+
+.menu1{
+    background-color: rgb(0, 0, 0);
+    
+    background-size: cover;
+}
+
+.textomenu a{
+
+    color: rgb(255, 255, 255);
+    
+}
+
+.dropdown-item:hover{
+
+    background-color: #d61253;
+    color: antiquewhite;
+    font-weight: bold;
+
+}
+
+div .ul .nombre{
+
+    color: black;
+    
+    
+}
+
+.uno{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.titulo, .subtitulo {
+
+    color: rgb(252, 249, 249);
+    text-shadow:-3px -1px 1px rgb(0, 0, 0);
+    font-weight: bold;
+    
+    
+    
+    
+
+}
+
+
+.letra{
+
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    
+    
+}
+
+.img1carrusel, .img2carrusel, .img3carrusel, .img4carrusel, .img5carrusel{
+
+    opacity: 1;
+    margin: 0px;
+    padding: 0px;
+
+}
+ .carruselcompleto{
+
+     padding: 0px;
+    
+     
+}
+
+.carousel-inner img{
+
+    width: 99.7%;
+    height: 100%;
+}
+
+
+.carousel-caption{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-90%);
+    
+    
+    
+}
+
+.acceder{
+
+    background-color:rgb(0, 0, 0) ;
+    border-color: rgb(0, 0, 0);
+    margin-top: 15px;
+}
+
+.acceder:hover{
+
+    background-color: gray;
+    border-color: gray;
+    color: white;
+}
+
+.surgimiento{
+    padding: 0px;
+    margin: 0px;
+}
+.textosurg{
+
+    color: #ffffff;
+    font-family: 'Poppins', sans-serif;
+padding-top: 20px;
+padding-left: 0px;
+padding-right: 0px;
+}
+
+
+
+.linea{
+    color: white;
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+
+.Unete{
+   
+padding-top: 30px;
+padding-bottom: 40px;
+
+}
+
+.unir h2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 32px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+
+.social a {
+font-size:  4.5rem;
+padding: 3rem;
+
+}
+.fa-facebook{
+    color: #3b5998
+}
+.fa-twitter{
+
+    color: 00aced;
+}
+.fa-youtube{
+
+
+    color:#dd4b39
+}
+
+.fa-instagram{
+    color: #517fa4;
+}
+
+.fa-facebook:hover,
+.fa-twitter:hover,
+.fa-youtube:hover,
+.fa-instagram:hover {
+    color: rgb(206, 10, 59);
+
+}
+
+
+.footer{
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(0, 0, 0);
+    padding: 0px;
+    margin: 0px;
+    color: rgb(255, 255, 255);
+}
+
+.logoredes{
+    padding: 0;
+    margin: 0;
+}
+.foot{
+    padding: 0;
+    margin: 0;
+}
+
+.pad{
+margin: 0px;
+    padding: 0px;
+}
+
+h1{
+
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 70px;
+  
+
+}
+
+
+/* Termina inicio  */
+
+
+/* pintura / cine / arquitectura */
+
+.titulopintura{
+    padding-top: 30px;
+    padding-bottom: 40px;
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    font-weight: bold;
+    
+}
+
+.botonsearch{
+    font-weight: bold;
+    border-radius: 7px;
+    border: 2px solid rgb(218, 15, 76);
+    color: rgb(206, 10, 59);
+    border-color: rgb(206, 10, 59);
+}
+
+
+.botonsearch:hover{
+
+    color:rgb(255, 255, 255) ;
+    background-color: rgb(206, 10, 59);
+    font-weight: bold;
+    border-radius: 7px;
+    border-color: #bebabc;
+}
+.centrar{
+    margin:auto;
+    display:block;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+
+h3{
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    padding-top: 12px;
+}
+
+button {
+    color:rgb(218, 15, 83);
+    border: 2px solid rgb(218, 15, 76);
+    background: none;
+    border-radius: 7px;
+    font-weight: bold;
+}
+
+.menos {
+    display: none;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.mas {
+    display: block;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#texto2 {
+    display: none;
+
+    
+}
+
+.cajonpintura{
+    padding-top:30px ;
+   
+    margin-bottom: 30px;
+}
+
+
+.card1{
+
+    background-color: yellow;
+    padding-left: 18px;
+}
+
+.card2{
+
+    background-color: rgb(17, 36, 207);
+    padding-left: 18px;
+}
+
+.card3{
+
+    background-color: rgb(255, 81, 0);
+    padding-left: 18px;
+}
+
+.card-body{
+   
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+
+
+h6{
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+    margin: auto;
+    padding-top: 40px;
+}
+
+
+
+
+/* Pagina OBRAS */
+
+
+
+
+h1{
+    color: seashell;
+    text-shadow:-1px -1px 1px rgb(255, 255, 255);
+}
+
+.temporadas{
+
+    padding: 0px;
+    
+}
+
+
+.parrafo{
+
+    padding-top: 60px;
+    padding-bottom: 40px;   
+    font-weight: bold;
+    color: black;
+    margin: 0px;
+    font-size: 17px;
+    background-color:rgba(255, 255, 255, 0.5)
+     
+
+       
+}
+
+.display-4{
+    font-size: 40px;
+    text-align: center;
+    
+}
+
+.titulositios{
+    color: rgb(255, 255, 255);
+    text-shadow: none;
+    background-color: rgb(41, 40, 38);
+    
+    padding-bottom: 0px;
+    margin: 0px;
+
+}
+
+
+.opciones{
+
+    padding-bottom: 30px;
+   
+}
+
+ 
+
+.cards{
+    background-color: rgba(0, 0, 0, 0.4);
+    
+}
+
+
+
+
+.card{
+
+    margin-bottom: 20px ;
+} 
+
+.card-title{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+
+
+.botonvermas{
+    color:rgb(206, 10, 59);
+    font-weight: bold;
+    border-color:rgb(206, 10, 59);
+    border-width: 2px ;
+    border-radius: 7px;
+}
+
+.botonvermas:hover{
+
+    color:rgb(255, 255, 255) ;
+    background-color: rgb(206, 10, 59);
+    font-weight: bold;
+}
+
+
+/* termina  obras */
+
+
+
+
+/* Galeria */
+
+.display-1{
+
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    font-weight: bold;
+    margin-bottom: 60px;
+    
+}
+
+.titulogaleria{
+    
+    margin-top: 0px;
+    padding-top:0px ;
+}
+.item {
+    transition: .5s ease-in-out;
+}
+
+.item:hover {
+    filter: brightness(80%);
+}
+
+/* Pagina inicio de sesion */
+
+
+
+.contacto{
+
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.unetetitulo{
+    padding-top: 30px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.container23{
+    background-image:url(../img/fondo2.jpeg);
+    background-size: cover;
+}
+
+.parrafocontacto{
+
+padding-top: 30px;
+padding-bottom: 30px;
+font-weight: bold;
+color: rgb(255, 255, 255);
+font-size: 18px;
+}
+
+.ficha{
+
+    background-color: rgb(223, 0, 86);
+    border-radius: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    
+    padding: 20px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    animation-duration: 2s;
+
+}
+
+
+.acceder2{
+
+    background-color:rgb(228, 214, 15) ;
+    border-color: rgb(228, 214, 15);
+    margin-top: 15px;
+    color: #ffffff;
+}
+
+.acceder2:hover{
+
+    background-color: gray;
+    border-color: gray;
+    color: white;
+}
+
+.invalid-feedback{
+    color: #ffffff;
+}
+
+.valid-feedback{
+
+    color: #ffffff;
+}
